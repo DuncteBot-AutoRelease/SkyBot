@@ -16,7 +16,6 @@ SkyBot is a discord bot with music, mod, fun, weeb and nerd commands.
 # Support
 If you need any support please join our [support guild](https://discord.gg/NKM9Xtk) 
 
-
 # How to invite the bot to a server?
 
 Go to [`https://discordapp.com/oauth2/authorize?client_id=210363111729790977&scope=bot&permissions=-1`][inviteLink] and follow the steps on the website
